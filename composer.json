@@ -1,6 +1,8 @@
 {
   "name": "hexlet/php-package",
-  "bin": ["bin/php-package"],
+  "bin": ["bin/php-package"
+	  "./DoSomething.php"
+],
   "type": "library",
   "authors": [
     {
