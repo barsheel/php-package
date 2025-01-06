@@ -1,5 +1,5 @@
 {
-  "name": "hexlet/php-package",
+  "name": "barsheel/php-package",
   "bin": ["bin/php-package"
 	  "./DoSomething.php"
 ],
