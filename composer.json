@@ -1,7 +1,7 @@
 {
   "name": "barsheel/php-package",
   "bin": ["bin/php-package",
-	  "./DoSomething.php"
+	  "bin/DoSomething"
 ],
   "type": "library",
   "authors": [
