@@ -1,6 +1,6 @@
 {
   "name": "barsheel/php-package",
-  "bin": ["bin/php-package",
+  "bin": [
 	  "bin/DoSomething"
 ],
   "type": "library",
